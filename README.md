@@ -1,2 +1,2 @@
-### KNN is best machine learning techinique
-of course
+### KNN code for fault seismic attributes classification
+
